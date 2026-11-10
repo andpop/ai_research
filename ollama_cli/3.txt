@@ -1,0 +1,2 @@
+Before change: Hello, world.
+After change: world, Hello.
